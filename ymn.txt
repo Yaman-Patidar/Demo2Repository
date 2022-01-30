@@ -1,1 +1,3 @@
 yaman
+i have delete the both two branches 
+aur add new branch fixbug
